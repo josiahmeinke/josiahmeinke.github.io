@@ -72,7 +72,7 @@ $(function () {
     createCannon("bottom", 800, 700)
     createCannon("right", 190, 600)
     createCannon("bottom", 600, 700)
-*
+
 
     
     /////////////////////////////////////////////////
@@ -81,4 +81,4 @@ $(function () {
   }
 
   registerSetup(setup);
-});
+  });
